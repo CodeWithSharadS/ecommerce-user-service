@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C10A969-D962-4820-B2F1-84915F16D1B8}|eCommerce.API\\eCommerce.API.csproj|d:\\github\\ecommerce-clean-arch-microservices\\microservices\\ecommercesolution.userservice\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C10A969-D962-4820-B2F1-84915F16D1B8}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Program.cs",
+              "ToolTip": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.API\\Program.cs",
+              "RelativeToolTip": "eCommerce.API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:49:35.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

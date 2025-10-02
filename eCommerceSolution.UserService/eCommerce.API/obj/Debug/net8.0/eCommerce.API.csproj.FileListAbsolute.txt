@@ -1,0 +1,85 @@
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\appsettings.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.exe
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.deps.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.runtimeconfig.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.csproj.AssemblyReference.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.AssemblyInfoInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.AssemblyInfo.cs
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.csproj.CoreCompileInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.eCommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.eCommerce.API.props
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eCommerce.API.props
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eCommerce.API.props
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\scopedcss\bundle\eCommerce.API.styles.css
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerc.1EFE0F2B.Up2Date
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\refint\eCommerce.API.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.genruntimeconfig.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\ref\eCommerce.API.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Dapper.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Npgsql.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\appsettings.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.exe
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.deps.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.runtimeconfig.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.API.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\AutoMapper.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Dapper.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Npgsql.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.csproj.AssemblyReference.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.AssemblyInfoInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.AssemblyInfo.cs
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.csproj.CoreCompileInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.sourcelink.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.eCommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.eCommerce.API.props
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eCommerce.API.props
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eCommerce.API.props
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\scopedcss\bundle\eCommerce.API.styles.css
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerc.1EFE0F2B.Up2Date
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\refint\eCommerce.API.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.genruntimeconfig.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\ref\eCommerce.API.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\FluentValidation.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\obj\Debug\net8.0\eCommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

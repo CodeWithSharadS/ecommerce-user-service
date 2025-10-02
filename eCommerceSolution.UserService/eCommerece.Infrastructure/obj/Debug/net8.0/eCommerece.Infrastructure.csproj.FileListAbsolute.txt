@@ -1,0 +1,31 @@
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.deps.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.csproj.AssemblyReference.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.AssemblyInfoInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.AssemblyInfo.cs
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommere.2F405456.Up2Date
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\refint\eCommerece.Infrastructure.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\ref\eCommerece.Infrastructure.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.deps.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.csproj.AssemblyReference.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.AssemblyInfo.cs
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.sourcelink.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommere.2F405456.Up2Date
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\refint\eCommerece.Infrastructure.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\eCommerece.Infrastructure.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerece.Infrastructure\obj\Debug\net8.0\ref\eCommerece.Infrastructure.dll

@@ -1,0 +1,25 @@
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+D:\Sharads\.Net Core\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+D:\GitHub\ecommerce-clean-arch-microservices\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
