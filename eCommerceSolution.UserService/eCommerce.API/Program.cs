@@ -18,14 +18,17 @@ builder.Services.AddControllers().AddJsonOptions(options =>
     options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
 });
 
+// for auto mapper
 builder.Services.AddAutoMapper(typeof(ApplicationUserMappingProfile).Assembly);
 
+// for fluent validation
 builder.Services.AddFluentValidationAutoValidation();
 
+// for swagger
 builder.Services.AddEndpointsApiExplorer();
-
 builder.Services.AddSwaggerGen();
 
+// for cors
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
@@ -63,17 +66,17 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 //Build the web application
 var app = builder.Build();
 
-//app.MapGet("/", () => "Hello World!");
-
+// for custom middleware
 app.UseExcepetionHandlingMiddleware();
 
-//Routing
+// for Routing
 app.UseRouting();
 
+// for swagger
 app.UseSwagger();
-
 app.UseSwaggerUI();
 
+// for cors
 app.UseCors();
 
 //Auth

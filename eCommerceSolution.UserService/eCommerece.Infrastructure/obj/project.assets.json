@@ -515,11 +515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
+      "projectUniqueName": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
       "projectName": "eCommerece.Infrastructure",
-      "projectPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
+      "projectPath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sharad\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\obj\\",
+      "outputPath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sharad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -537,8 +537,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
-              "projectPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
+            "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
+              "projectPath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj"
             }
           }
         }

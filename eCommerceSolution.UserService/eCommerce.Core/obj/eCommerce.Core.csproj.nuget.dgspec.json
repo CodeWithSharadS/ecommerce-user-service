@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {}
+    "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectPath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\Sharad\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sharad\\AppData\\Roaming\\NuGet\\NuGet.Config",

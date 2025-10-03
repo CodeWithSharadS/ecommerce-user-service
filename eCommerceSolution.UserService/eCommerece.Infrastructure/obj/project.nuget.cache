@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bLEgr0hD0g=",
+  "dgSpecHash": "YkFUVRLgaAQ=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\ecommerce-clean-arch-microservices\\Microservices\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
+  "projectFilePath": "D:\\GitHub\\ecommerce-user-service\\eCommerceSolution.UserService\\eCommerece.Infrastructure\\eCommerece.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sharad\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Sharad\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
